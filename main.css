@@ -52,7 +52,7 @@
   left: 0;
   right: 0;
   margin-left: 25px;
-  height: 70px;
+  height: 100px;
   font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 400;
@@ -418,7 +418,6 @@ h4 {
   font-style: normal;
   font-weight: 700;
   font-size: 35px;
-  line-height: 23px;
   letter-spacing: 0.5px;
 }
 .heart-border {
@@ -427,9 +426,8 @@ h4 {
   background: #000000;
   box-shadow: 0px 3px 26px -5px rgba(0, 0, 0, 0.25);
   border-radius: 15px;
-  margin-right: 35px;
+  margin-right: 30px;
   display: flex;
-  flex-direction: row;
   justify-content: center;
   align-items: center;
 }
